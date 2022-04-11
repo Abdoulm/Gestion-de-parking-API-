@@ -1,0 +1,25 @@
+{
+  "name": "gestionparkingapi",
+  "version": "1.0.0",
+  "description": "Projet de Test du cas d'un société exploitant des parkings de longue durée et qui prend des réservations de la part de ses clients. EXPRESS.JS NODE.JS API RESTFULL CRUD ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdoulm/Gestion-de-parking-API-.git"
+  },
+  "keywords": [
+    "77114448Abm$"
+  ],
+  "author": "Abdoulm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdoulm/Gestion-de-parking-API-/issues"
+  },
+  "homepage": "https://github.com/Abdoulm/Gestion-de-parking-API-#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
